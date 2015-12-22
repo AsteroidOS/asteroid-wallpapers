@@ -62,4 +62,15 @@
 | ![thumpnail](https://farm4.staticflickr.com/3904/15212234310_390b3195ef_q_d.jpg) | Christopher Michel | Ele | [flickr](https://www.flickr.com/photos/cmichel67/15212234310/) |  |  |
 | ![thumpnail](https://farm4.staticflickr.com/3955/15056396004_0ebfb35a88_q_d.jpg) | damon jah | ready steady go! | [flickr](https://www.flickr.com/photos/damonjah/15056396004/) |  |  |
 | ![thumpnail](https://farm7.staticflickr.com/6215/6365037371_3e9ce7ae41_q_d.jpg) | jenny downing | adorn | [flickr](https://www.flickr.com/photos/jenny-pics/6365037371/) |  |  |
+| ![thumpnail](https://farm8.staticflickr.com/7319/11580970316_1f8bb3076f_q_d.jpg) | Renaud Camus | Couverte 60x60 n° 40 (8.X.2013, La Mort de Louis IV d’Outremer, 10 septembre 954), huile sur toile | [flickr](https://www.flickr.com/photos/renaud-camus/11580970316/) |  |  |
+| ![thumpnail](https://farm6.staticflickr.com/5553/14894579230_8d8a386244_q_d.jpg) | Ghislain Mary | Rotterdam - Staircase #3 | [flickr](https://www.flickr.com/photos/ghislainmary/14894579230/) |  |  |
+| ![thumpnail](https://farm6.staticflickr.com/5634/20710092124_6d0cf90924_q_d.jpg) | T.Kiya | Rose, Pride 'n' Joy, バラ, プライドンジョイ, | [flickr](https://flic.kr/p/xy5CRS) |  |  |
+| ![thumpnail](https://farm6.staticflickr.com/5711/23152897434_1bd29e9aab_q_d.jpg) | Robert Couse-Baker | now boarding | [flickr](https://flic.kr/p/BgWDLN) |  |  |
+| ![thumpnail](https://farm6.staticflickr.com/5768/23334301361_a481c67596_q_d.jpg) | Emilien ETIENNE | [ - MOVE IT - ] | [flickr](https://flic.kr/p/BxYoQH) |  |  |
+| ![thumpnail](https://farm1.staticflickr.com/433/19499895693_91c07f31b2_q_d.jpg) | Ghislain Mary | OKKO Hotels #2 | [flickr](https://flic.kr/p/vH94Ca) |  |  |
+| ![thumpnail](https://farm4.staticflickr.com/3003/3104158535_3a277a74a5_q_d.jpg) | Dominic Alves | Moon and Venus | [flickr](https://flic.kr/p/5JiCbK) |  |  |
+| ![thumpnail](https://farm1.staticflickr.com/383/19702613265_05035f7fe2_q_d.jpg) | Christopher Michel | Beautiful ice. | [flickr](https://flic.kr/p/w243uH) |  |  |
+| ![thumpnail](https://farm9.staticflickr.com/8405/8687826768_11eda8d247_q_d.jpg) | Norio NAKAYAMA | Power Shot N 作例 | [flickr](https://flic.kr/p/eeHodG) |  |  |
+| ![thumpnail](https://farm7.staticflickr.com/6027/5963581908_5dbb80383c_q_d.jpg) | Joan Sorolla | Teules | [flickr](https://flic.kr/p/a5YV8J) |  |  |
+| ![thumpnail](https://farm6.staticflickr.com/5278/5877995338_012bcff6b7_q_d.jpg) | Don Graham | Bryce Canyon National Park | [flickr](https://flic.kr/p/9Xqged) |  |  |
 | ![thumpnail]() | x | X | [flickr]() | ✔ | ✔ |
