@@ -5,7 +5,7 @@ All those images are placed under the CC BY 2.0 license, you can get them here:
 
 | Image | Creator | Title | Source |
 |---|---|---|---|
-| ![thumbnail](https://farm4.staticflickr.com/3717/19378456782_13561a35de_q_d.jpg) | Thomas Leuthard | /// \\\ | [flickr](https://www.flickr.com/photos/thomasleuthard/19378456782/) |
+| ![thumbnail](https://farm4.staticflickr.com/3717/19378456782_13561a35de_q_d.jpg) | Thomas Leuthard | /// \\\\\\ | [flickr](https://www.flickr.com/photos/thomasleuthard/19378456782/) |
 | ![thumbnail](https://farm3.staticflickr.com/2334/2455787369_bef2b0484c_q_d.jpg) | 4510waza | Tea leaf　八十八夜 | [flickr](https://www.flickr.com/photos/4510waza/2455787369/) |
 | ![thumbnail](https://farm2.staticflickr.com/1054/1108221266_2d7487cbf9_q_d.jpg) | Sanna R | Tonight | [flickr](https://www.flickr.com/photos/sanna_nixi/1108221266/) |
 | ![thumbnail](https://farm6.staticflickr.com/5572/14990624740_8c2b958bdd_q_d.jpg) | Iván Erre Jota | La Luna de mis amores, de mis sueños. ... Luna Lunera, saliendo de entre las montañas de mi Valle del aburrá. #medellín #Luna | [flickr](https://www.flickr.com/photos/15072398@N00/14990624740/) |
@@ -21,8 +21,8 @@ All those images are placed under the CC BY 2.0 license, you can get them here:
 | ![thumbnail](https://farm1.staticflickr.com/433/19499895693_91c07f31b2_q_d.jpg) | Ghislain Mary | OKKO Hotels #2 | [flickr](https://flic.kr/p/vH94Ca) |
 | ![thumbnail](https://farm1.staticflickr.com/383/19702613265_05035f7fe2_q_d.jpg) | Christopher Michel | Beautiful ice. | [flickr](https://flic.kr/p/w243uH) |
 | ![thumbnail](https://farm7.staticflickr.com/6193/6070306243_3b82234fc8_q_d.jpg) | Jamie Taylor  | Plough lines (picnik edit) | [flickr](https://www.flickr.com/photos/jayt74/6070306243/) |
-| ![thumbnail](https://farm9.staticflickr.com/8247/8551044048_5d04cee9b9_q_d.jpg) | Sisssou  |  | [flickr](https://www.flickr.com/photos/sissou/8551044048/) |
-| ![thumbnail](https://farm4.staticflickr.com/3700/12008224024_4eb3db42dc_q_d.jpg) | Miwok |  | [flickr](https://www.flickr.com/photos/miwok/12008224024/) |
+| ![thumbnail](https://farm9.staticflickr.com/8247/8551044048_5d04cee9b9_q_d.jpg) | Sisssou  | ◙◙◙ | [flickr](https://www.flickr.com/photos/sissou/8551044048/) |
+| ![thumbnail](https://farm4.staticflickr.com/3700/12008224024_4eb3db42dc_q_d.jpg) | Miwok | untitled | [flickr](https://www.flickr.com/photos/miwok/12008224024/) |
 | ![thumbnail](https://farm8.staticflickr.com/7289/9240057900_6793919136_q_d.jpg) | Thomas Leuthard | Lisboa #24 | [flickr](https://www.flickr.com/photos/thomasleuthard/9240057900/) |
 | ![thumbnail](https://farm6.staticflickr.com/5219/5447882622_d604780c1b_q_d.jpg) | simon.hedge | Ipswich is THAT way | [flickr](https://www.flickr.com/photos/shedge/5447882622/) |
 | ![thumbnail](https://farm9.staticflickr.com/8827/18155790692_655998936e_q_d.jpg) | Thomas Leuthard | Jökulsárlón, Iceland | [flickr](https://www.flickr.com/photos/thomasleuthard/18155790692/) |  |  | I think it's a good lighttrail |
