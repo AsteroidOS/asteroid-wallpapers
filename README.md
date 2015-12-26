@@ -15,13 +15,11 @@ All those images are placed under the CC BY 2.0 license, you can get them here:
 | ![thumbnail](https://farm3.staticflickr.com/2436/3869914397_0c7e0e92bc_q_d.jpg) | Kevin Dooley | Lake Michigan serenity | [flickr](https://www.flickr.com/photos/pagedooley/3869914397/) |
 | ![thumbnail](https://farm3.staticflickr.com/2872/9769556553_5cf0cd60c4_q_d.jpg) | Fabrizio Sciami | Castelluccio di Norcia | [flickr](https://www.flickr.com/photos/_fabrizio_/9769556553/) |
 | ![thumbnail](https://farm3.staticflickr.com/2889/11424136145_7050e7e10f_q_d.jpg) | fluffisch | against | [flickr](https://www.flickr.com/photos/fluffisch/11424136145/) |
-| ![thumbnail](https://farm8.staticflickr.com/7005/6841769703_8c8f524693_q_d.jpg) | Joan Sorolla | Fulles de roure a la posta de sol | [flickr](https://www.flickr.com/photos/joansorolla/6841769703/) |
 | ![thumbnail](https://farm5.staticflickr.com/4061/4693023532_90871ce8bf_q_d.jpg) | Marja van Bochove | Blue ribbon | [flickr](https://www.flickr.com/photos/on1stsite/4693023532/) |
 | ![thumbnail](https://farm4.staticflickr.com/3904/15212234310_390b3195ef_q_d.jpg) | Christopher Michel | Ele | [flickr](https://www.flickr.com/photos/cmichel67/15212234310/) |
 | ![thumbnail](https://farm6.staticflickr.com/5634/20710092124_6d0cf90924_q_d.jpg) | T.Kiya | Rose, Pride 'n' Joy, バラ, プライドンジョイ, | [flickr](https://flic.kr/p/xy5CRS) |
 | ![thumbnail](https://farm1.staticflickr.com/433/19499895693_91c07f31b2_q_d.jpg) | Ghislain Mary | OKKO Hotels #2 | [flickr](https://flic.kr/p/vH94Ca) |
 | ![thumbnail](https://farm1.staticflickr.com/383/19702613265_05035f7fe2_q_d.jpg) | Christopher Michel | Beautiful ice. | [flickr](https://flic.kr/p/w243uH) |
-| ![thumbnail](https://farm1.staticflickr.com/271/20467458471_b0c6278c90_q_d.jpg) | Magdalena Roseler | \x | [flickr](https://www.flickr.com/photos/magdalenaroeseler/20467458471/in/photostream/) |
 | ![thumbnail](https://farm7.staticflickr.com/6193/6070306243_3b82234fc8_q_d.jpg) | Jamie Taylor  | Plough lines (picnik edit) | [flickr](https://www.flickr.com/photos/jayt74/6070306243/) |
 | ![thumbnail](https://farm9.staticflickr.com/8247/8551044048_5d04cee9b9_q_d.jpg) | Sisssou  |  | [flickr](https://www.flickr.com/photos/sissou/8551044048/) |
 | ![thumbnail](https://farm4.staticflickr.com/3700/12008224024_4eb3db42dc_q_d.jpg) | Miwok |  | [flickr](https://www.flickr.com/photos/miwok/12008224024/) |
