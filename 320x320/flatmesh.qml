@@ -19,7 +19,7 @@ import QtQuick 2.4
 import org.asteroid.controls 1.0
 
 FlatMesh {
-    outerColor: "#000000"
-    centerColor: "#888888"
+    outerColor: bgOuterColor
+    centerColor: bgCenterColor
 }
 
