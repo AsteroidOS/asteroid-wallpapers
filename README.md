@@ -1,32 +1,48 @@
 AsteroidOS Wallpapers
 =====================
 
-All those images are placed under the CC BY 2.0 license, you can get them here:
+Sorted according to user voting from 2018-04-06.\
+All images are placed under the CC BY-NC-SA 2.0, CC BY 2.0 or CC0 1.0 license, you can get them here:
 
-| Image | Creator | Title | Source |
-|---|---|---|---|
-| ![thumbnail](https://farm4.staticflickr.com/3717/19378456782_13561a35de_q_d.jpg) | Thomas Leuthard | /// \\\\\\ | [flickr](https://www.flickr.com/photos/thomasleuthard/19378456782/) |
-| ![thumbnail](https://farm3.staticflickr.com/2334/2455787369_bef2b0484c_q_d.jpg) | 4510waza | Tea leaf　八十八夜 | [flickr](https://www.flickr.com/photos/4510waza/2455787369/) |
-| ![thumbnail](https://farm2.staticflickr.com/1054/1108221266_2d7487cbf9_q_d.jpg) | Sanna R | Tonight | [flickr](https://www.flickr.com/photos/sanna_nixi/1108221266/) |
-| ![thumbnail](https://farm6.staticflickr.com/5572/14990624740_8c2b958bdd_q_d.jpg) | Iván Erre Jota | La Luna de mis amores, de mis sueños. ... Luna Lunera, saliendo de entre las montañas de mi Valle del aburrá. #medellín #Luna | [flickr](https://www.flickr.com/photos/15072398@N00/14990624740/) |
-| ![thumbnail](https://farm4.staticflickr.com/3899/15128705606_1f63ba5038_q_d.jpg) | Kevin Dooley | Grand symmetry in the sky | [flickr](https://www.flickr.com/photos/pagedooley/15128705606/) | 
-| ![thumbnail](https://farm3.staticflickr.com/2849/9440091829_60656e610f_q_d.jpg) | Elné | Texture Green No. 53 | [flickr](https://www.flickr.com/photos/neighya/9440091829/) |
-| ![thumbnail](https://farm1.staticflickr.com/1/3322349_f5b6307a01_q_d.jpg) | Kai Schreiber | escalator at the end of a tunnel | [flickr](https://www.flickr.com/photos/genista/3322349/) |
-| ![thumbnail](https://farm3.staticflickr.com/2436/3869914397_0c7e0e92bc_q_d.jpg) | Kevin Dooley | Lake Michigan serenity | [flickr](https://www.flickr.com/photos/pagedooley/3869914397/) |
-| ![thumbnail](https://farm3.staticflickr.com/2872/9769556553_5cf0cd60c4_q_d.jpg) | Fabrizio Sciami | Castelluccio di Norcia | [flickr](https://www.flickr.com/photos/_fabrizio_/9769556553/) |
-| ![thumbnail](https://farm3.staticflickr.com/2889/11424136145_7050e7e10f_q_d.jpg) | fluffisch | against | [flickr](https://www.flickr.com/photos/fluffisch/11424136145/) |
-| ![thumbnail](https://farm5.staticflickr.com/4061/4693023532_90871ce8bf_q_d.jpg) | Marja van Bochove | Blue ribbon | [flickr](https://www.flickr.com/photos/on1stsite/4693023532/) |
-| ![thumbnail](https://farm4.staticflickr.com/3904/15212234310_390b3195ef_q_d.jpg) | Christopher Michel | Ele | [flickr](https://www.flickr.com/photos/cmichel67/15212234310/) |
-| ![thumbnail](https://farm6.staticflickr.com/5634/20710092124_6d0cf90924_q_d.jpg) | T.Kiya | Rose, Pride 'n' Joy, バラ, プライドンジョイ, | [flickr](https://flic.kr/p/xy5CRS) |
-| ![thumbnail](https://farm1.staticflickr.com/433/19499895693_91c07f31b2_q_d.jpg) | Ghislain Mary | OKKO Hotels #2 | [flickr](https://flic.kr/p/vH94Ca) |
-| ![thumbnail](https://farm1.staticflickr.com/383/19702613265_05035f7fe2_q_d.jpg) | Christopher Michel | Beautiful ice. | [flickr](https://flic.kr/p/w243uH) |
-| ![thumbnail](https://farm7.staticflickr.com/6193/6070306243_3b82234fc8_q_d.jpg) | Jamie Taylor  | Plough lines (picnik edit) | [flickr](https://www.flickr.com/photos/jayt74/6070306243/) |
-| ![thumbnail](https://farm9.staticflickr.com/8247/8551044048_5d04cee9b9_q_d.jpg) | Sisssou  | ◙◙◙ | [flickr](https://www.flickr.com/photos/sissou/8551044048/) |
-| ![thumbnail](https://farm4.staticflickr.com/3700/12008224024_4eb3db42dc_q_d.jpg) | Miwok | untitled | [flickr](https://www.flickr.com/photos/miwok/12008224024/) |
-| ![thumbnail](https://farm8.staticflickr.com/7289/9240057900_6793919136_q_d.jpg) | Thomas Leuthard | Lisboa #24 | [flickr](https://www.flickr.com/photos/thomasleuthard/9240057900/) |
-| ![thumbnail](https://farm6.staticflickr.com/5219/5447882622_d604780c1b_q_d.jpg) | simon.hedge | Ipswich is THAT way | [flickr](https://www.flickr.com/photos/shedge/5447882622/) |
-| ![thumbnail](https://farm9.staticflickr.com/8827/18155790692_655998936e_q_d.jpg) | Thomas Leuthard | Jökulsárlón, Iceland | [flickr](https://www.flickr.com/photos/thomasleuthard/18155790692/) |  |  | I think it's a good lighttrail |
-| ![thumbnail](https://farm6.staticflickr.com/5342/9296537027_003fbe263a_q_d.jpg) | Brett Jordan | Pinky Sunset | [flickr](https://flic.kr/p/favbza) |
-| ![thumbnail](https://farm8.staticflickr.com/7397/9736485307_7f290a4196_q_d.jpg) | Kevin Dooley | Milion dollar sunsets 2013 | [flickr](https://www.flickr.com/photos/pagedooley/9736485307/) |
-| ![thumbnail](https://farm8.staticflickr.com/7270/7595873090_6dee49654c_q_d.jpg) | Brett Jordan | Saturated Sands | [flickr](https://flic.kr/p/czdQr9) |
-| ![thumbnail](https://farm9.staticflickr.com/8101/8451874091_ec6b803d4d_q_d.jpg) | Brett Jordan | Cross-processed Sky | [flickr](https://flic.kr/p/dSS4H6) |
+| Image | Creator | Title | Source | License |
+|---|---|---|---|---|
+| #01 ![thumbnail](https://farm9.staticflickr.com/8724/28114079594_2b5bedae86_z_d.jpg) | Joe deSousa | Greek Sunrise on the Ionian Sea | [flickr](https://flic.kr/p/JQm1of) | CC0 1.0 |
+| #02 ![thumbnail](https://farm6.staticflickr.com/5342/9296537027_003fbe263a_z_d.jpg) | Brett Jordan | Pinky Sunset | [flickr](https://flic.kr/p/favbza) | CC BY 2.0 |
+| #03 ![thumbnail](https://cdn.pixabay.com/photo/2017/07/03/06/40/rain-2466803_1280.jpg) | G4889166 | Regen Straße Stadt Hintergrund | [pixabay](https://pixabay.com/photo-2466803/) |  CC0 1.0 |
+| #04 ![thumbnail](https://cdn.pixabay.com/photo/2016/11/02/10/04/france-1790999_1280.jpg) | 12019 | Frankreich Berge Nebel Sonnenaufgang Wald Bäume | [pixabay](https://pixabay.com/photo-1790999/) |  CC0 1.0 |
+| #05 ![thumbnail](https://images.pexels.com/photos/891683/pexels-photo-891683.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | rawpixel.com | bokeh photography effect | [pexels](https://www.pexels.com/photo/bokeh-photography-effect-891683/) |  CC0 1.0 |
+| #06 ![thumbnail](https://farm9.staticflickr.com/8101/8451874091_ec6b803d4d_z_d.jpg) | Brett Jordan | Cross-processed Sky | [flickr](https://flic.kr/p/dSS4H6) | CC BY 2.0 |
+| #07 ![thumbnail](https://images.pexels.com/photos/731659/pexels-photo-731659.jpeg?auto=compress&cs=tinysrgb&h=650&w=940) | Glenn Morello | berge farben gestalten hell | [pexels](https://www.pexels.com/de/foto/berge-farben-gestalten-hell-731659/) | CC0 1.0 |
+| #08 ![thumbnail](https://images.pexels.com/photos/189349/pexels-photo-189349.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | Sebastian Voortman | beach dawn dusk ocean | [pexels](https://www.pexels.com/photo/beach-dawn-dusk-ocean-189349/) | CC0 1.0 |
+| #09 ![thumbnail](https://farm9.staticflickr.com/8432/7839665166_c0ecbfc134_z_d.jpg) | Jan Beck | Schauinsland im Winter | [flickr](https://flic.kr/p/cWLkjN) | CC BY 2.0 |
+| #10 ![thumbnail](https://images.pexels.com/photos/813269/pexels-photo-813269.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | Min An | astrologie astronomie dunkel erkundung | [pexels](https://www.pexels.com/de/foto/astrologie-astronomie-dunkel-erkundung-813269/) | CC0 1.0 |
+| #11 ![thumbnail](https://farm8.staticflickr.com/7270/7595873090_6dee49654c_z_d.jpg) | Brett Jordan | Saturated Sands | [flickr](https://flic.kr/p/czdQr9) | CC BY 2.0 |
+| #12 ![thumbnail](https://cdn.pixabay.com/photo/2017/03/29/15/18/tianjin-2185510_1280.jpg) | asmuSe | Tianjin Twilight City Landschaft Tourismus | [pixabay](https://pixabay.com/photo-2185510/) |  CC0 1.0 |
+| #13 ![thumbnail](https://farm6.staticflickr.com/5466/31353281905_03b1451238_z_d.jpg) | Reinhard Link | New York: Empire State Building & skyscrapers in sunset light | [flickr](https://flic.kr/p/PLzLnX) | CC BY-NC-SA 2.0 |
+| #14 ![thumbnail](https://farm8.staticflickr.com/7289/9240057900_6793919136_z_d.jpg) | Thomas Leuthard | Lisboa #24 | [flickr](https://www.flickr.com/photos/thomasleuthard/9240057900/) | CC BY 2.0 |
+| #15 ![thumbnail](https://cdn.pixabay.com/photo/2014/12/03/05/53/string-555070_1280.jpg) | mikefoster | String Bass Gitarre Musik Stein Ton Instrument | [pixabay](https://pixabay.com/de/string-bass-gitarre-musik-stein-555070/) |  CC0 1.0 |
+| #16 ![thumbnail](https://images.pexels.com/photos/312105/pexels-photo-312105.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | Sebastian Voortman | abenteuer action aktion aufsicht | [pexels](https://www.pexels.com/de/foto/abenteuer-action-aktion-aufsicht-312105/) |  CC0 1.0 |
+| #17 ![thumbnail](https://cdn.pixabay.com/photo/2018/03/12/13/03/wood-fibre-boards-3219590_1280.jpg) | Engin_Akyurt | Holz-Faserplatten Baum Boden Muster Holz Braun | [pixabay](https://pixabay.com/de/holz-faserplatten-baum-boden-muster-3219590/) |  CC0 1.0 |
+| #18 ![thumbnail](https://farm7.staticflickr.com/6186/6073641453_3a6bb26d9f_z_d.jpg) | bm.iphone | texture | [flickr](https://flic.kr/p/afH116) | CC BY 2.0 |
+| #19 ![thumbnail](https://images.pexels.com/photos/361726/pexels-photo-361726.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | Ryan McGinty | abend abstrakt berg dammerung | [pexels](https://www.pexels.com/de/foto/abend-abstrakt-berg-dammerung-361726/) | CC0 1.0 |
+| #20 ![thumbnail](https://cdn.pixabay.com/photo/2017/12/31/11/13/wood-3052032_1280.jpg) | Engin_Akyurt | Holz Baum Textur Abstrakt Motiv Detailaufnahmen | [pixabay](https://pixabay.com/de/holz-baum-textur-abstrakt-motiv-3052032/) |  CC0 1.0 |
+| #21 ![thumbnail](https://farm7.staticflickr.com/6088/6074159476_dd1afe3d1b_z_d.jpg) | bm.iphone | texture | [flickr](https://flic.kr/p/afKDZw) | CC BY 2.0 |
+| #22 ![thumbnail](https://farm3.staticflickr.com/2334/2455787369_bef2b0484c_z_d.jpg) | 4510waza | Tea leaf　八十八夜 | [flickr](https://www.flickr.com/photos/4510waza/2455787369/) | CC BY 2.0 |
+| #23 ![thumbnail](https://cdn.pixabay.com/photo/2016/12/05/11/39/sea-1883657_1280.jpg) | 12019 | meer ozean wasser reflexionen | [pixabay](https://pixabay.com/photo-1883657/) |  CC0 1.0 |
+| #24 ![thumbnail](https://images.pexels.com/photos/173921/pexels-photo-173921.png?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | Travis Seera | baume beleuchtung dammerung dunkel | [pexels](https://www.pexels.com/de/foto/baume-beleuchtung-dammerung-dunkel-173921/) | CC0 1.0 |
+| #25 ![thumbnail](https://cdn.pixabay.com/photo/2017/02/15/00/21/girl-2067378_1280.jpg) | composita | Mädchen Schaukelt Skyline Wolkenkratzer Downtown | [pixabay](https://pixabay.com/photo-2067378/) |  CC0 1.0 |
+| #26 ![thumbnail](https://farm3.staticflickr.com/2849/9440091829_60656e610f_z_d.jpg) | Elné | Texture Green No. 53 | [flickr](https://www.flickr.com/photos/neighya/9440091829/) | CC BY 2.0 |
+| #27 ![thumbnail](https://farm5.staticflickr.com/4600/24355231377_e40df5a771_z_d.jpg) | Markus Spiske | the alps top view near adriatic sea | [flickr](https://flic.kr/p/D7bVLn) | CC0 1.0 |
+| #28 ![thumbnail](https://cdn.pixabay.com/photo/2016/11/18/14/12/blurred-1834820_1280.jpg) | Pexels | Verschwommen Bokeh Bunte Beleuchtung | [pexels](https://pixabay.com/photo-1834820/) | CC0 1.0 |
+| #29 ![thumbnail](https://farm9.staticflickr.com/8827/18155790692_655998936e_z_d.jpg) | Thomas Leuthard | Jökulsárlón, Iceland | [flickr](https://www.flickr.com/photos/thomasleuthard/18155790692/) |  |  | I think it's a good lighttrail | CC BY 2.0 |
+| #30 ![thumbnail](https://farm6.staticflickr.com/5219/5447882622_d604780c1b_z_d.jpg) | simon.hedge | Ipswich is THAT way | [flickr](https://www.flickr.com/photos/shedge/5447882622/) | CC BY 2.0 |
+| #31 ![thumbnail](https://cdn.pixabay.com/photo/2017/12/17/17/27/city-3024616_1280.jpg) | weisanjiang | City Skyline Stadtansicht Gebäude Sonnenuntergang | [pexels](https://pixabay.com/photo-3024616/) | CC0 1.0 |
+| #32 ![thumbnail](https://images.pexels.com/photos/824678/pexels-photo-824678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | Lucas Insight | blase-farben-gestalten-h2o | [pexels](https://www.pexels.com/de/foto/blase-farben-gestalten-h2o-824678/) | CC0 1.0 |
+| #33 ![thumbnail](https://farm3.staticflickr.com/2436/3869914397_0c7e0e92bc_z_d.jpg) | Kevin Dooley | Lake Michigan serenity | [flickr](https://www.flickr.com/photos/pagedooley/3869914397/) | CC BY 2.0 |
+| #34 ![thumbnail](https://cdn.pixabay.com/photo/2015/01/21/15/52/landscape-606843_1280.jpg) | skeeze | Landschaft Nebel Afrika Heißluftballon Blick | [pixabay](https://pixabay.com/photo-606843/) |  CC0 1.0 |
+| #35 ![thumbnail](https://cdn.pixabay.com/photo/2015/09/02/13/19/ocean-918998_1280.jpg) | Free-Photos | Ozean Oberfläche Sonnenuntergang Wellen Meer | [pixabay](https://pixabay.com/photo-918998/) |  CC0 1.0 |
+| #36 ![thumbnail](https://images.pexels.com/photos/365638/pexels-photo-365638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | Aphiwat chuangchoem | bananenblatt baum blatt draussen | [pexels](https://www.pexels.com/de/foto/bananenblatt-baum-blatt-draussen-365638/) | CC0 1.0 |
+| #37 ![thumbnail](https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg) | Cleverpix | sonnenuntergang baum wasser | [pixabay](https://pixabay.com/photo-1373171/) |  CC0 1.0 |
+| #38 ![thumbnail](https://images.pexels.com/photos/351432/pexels-photo-351432.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) | George Becker | abend-architektur-dammerung-draussen | [pexels](https://www.pexels.com/de/foto/abend-architektur-dammerung-draussen-351432/) | CC0 1.0 |
+| #39 ![thumbnail](https://cdn.pixabay.com/photo/2017/07/19/01/41/clouds-2517653_1280.jpg) | carloyuen | Wolken Nebel Der Familienname Berg Hong Kong | [pixabay](https://pixabay.com/photo-2517653/) |  CC0 1.0 |
+| #40 ![thumbnail](https://farm8.staticflickr.com/7397/9736485307_7f290a4196_z_d.jpg) | Kevin Dooley | Milion dollar sunsets 2013 | [flickr](https://www.flickr.com/photos/pagedooley/9736485307/) | CC BY 2.0 |
