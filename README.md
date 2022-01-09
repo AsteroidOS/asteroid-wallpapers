@@ -1,7 +1,13 @@
 AsteroidOS Wallpapers
 =====================
 
-Sorted according to user voting from 2018-04-06.\
+### Adding new wallpapers
+- Place jpg, jpeg, png, svg, bmp or webp images of at least 480x480px resolution into the document root.
+- Use the `./generate-scaled-images.sh` script to generate preview images.
+- Copy all wallpapers and preview images to a watch connected via USB/SDK Mode using the `./copy-to-watch.sh` script.
+
+### Stock wallpapers
+Where sorted according to user voting from 2018-04-06.\
 All images are placed under the CC BY-NC-SA 2.0, CC BY 2.0, CC BY-SA 3.0 IGO or CC0 1.0 license, you can get them here:
 
 | Image | Creator | Title | Source | License |
