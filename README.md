@@ -5,6 +5,7 @@ AsteroidOS Wallpapers
 - Place jpg, jpeg, png, svg, bmp or webp images of at least 480x480px resolution into the document root.
 - Use the `./generate-scaled-images.sh` script to generate preview images.
 - Copy all wallpapers and preview images to a watch connected via USB/SDK Mode using the `./copy-to-watch.sh` script.
+- For advanced copy options execute `./copy-to-watch.sh -h`.
 
 ### Stock wallpapers
 Where sorted according to user voting from 2018-04-06.\
