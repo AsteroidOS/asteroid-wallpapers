@@ -2,14 +2,14 @@
 
 # Scale and compress all jpg, jpeg, png, svg, bmp and webp images to existing preview resolution folders
 
-if ! command -v magick &> /dev/null
+if ! command -v mogrify &> /dev/null
 then
     echo "
-$(tput setaf 1)Image Magick could not be found. Install magick from your package manager.$(tput sgr0)"
+$(tput setaf 1)mogrify could not be found. Install mogrify (Image Magick) from your package manager.$(tput sgr0)"
     exit
 else
     echo "
-$(tput setaf 2)magick found, proceeding...$(tput sgr0)
+$(tput setaf 2)mogrify found, proceeding...$(tput sgr0)
          "
 fi
 
