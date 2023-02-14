@@ -27,8 +27,8 @@ for file in *.{jpg,jpeg,png,svg,bmp,webp}; do
   then
     echo "$(tput setaf 214)No $file files present.$(tput sgr0)"
   else
-    mogrify -resize 480x480 -quality 80 -format jpg -path full $file
-    echo "480px full wallpaper generated for $file."
+    mogrify -resize 640x640 -quality 80 -format jpg -path full $file
+    echo "640px full wallpaper generated for $file."
     for opt in "${options[@]}"
     do
       mogrify -resize ${opt::-1}x${opt::-1} -quality 55 -format jpg -path ${opt::-1} $file
