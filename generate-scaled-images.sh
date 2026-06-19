@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 
 # Scale and compress all jpg, jpeg, png, svg, bmp and webp images to existing preview resolution folders
 

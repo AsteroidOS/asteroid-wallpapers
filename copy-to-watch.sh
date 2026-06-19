@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 
 # Copy content of the image folders to a connected watch in Developer or ADB mode.
 
